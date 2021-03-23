@@ -1,1 +1,16 @@
+.menu li a:hover{
+   background-color:#444;
+}
 
+h1{
+    color: #fff;
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+}
+/* CSS GRID LAYOUT*/
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    border: 1px solid #fff;
+}
